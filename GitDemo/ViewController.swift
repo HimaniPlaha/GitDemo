@@ -12,6 +12,7 @@ import TestClass
 class ViewController: UIViewController {
     
     let a = 5
+    let b = 10
 
     override func viewDidLoad() {
         super.viewDidLoad()
